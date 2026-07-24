@@ -1,11 +1,10 @@
 # Trabalho Miguel #
-### Linguagem JavaScrip Programação ###
+## Linguagem Programação ##
 ### Linguagem JavaScrip ###
 
-JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. ###
+JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. 
 
-O JavaScript é uma linguagem de programação interpretada que permite criar conteúdo dinâmico, controlar multimédia, animar imagens e praticamente tudo o que envolve interatividade num site ou aplicação. ###
-
+O JavaScript é uma linguagem de programação interpretada que permite criar conteúdo dinâmico, controlar multimédia, animar imagens e praticamente tudo o que envolve interatividade num site ou aplicação. 
 
 Para perceber melhor o papel do JavaScript na internet, a melhor analogia é com a construção de uma casa:
 
@@ -29,7 +28,7 @@ Aplicações Mobile e Servidores: Embora tenha nascido para os navegadores de in
 
 ### Quem criou esta linguagem ###
 
-Brendan Eich, nascido em 4 de julho de 1961) é um tecnólogo e programador de computadores americano.[1] Ele é o criador da linguagem de programação JavaScript e cofundador do projeto Mozilla, da Mozilla Foundation e da Mozilla Corporation.[2] Eich serviu brevemente como CEO da Mozilla Corporation antes de renunciar devido a controvérsias políticas. Atualmente, é o CEO da Brave Software, empresa que desenvolve o navegador focado em privacidade Brave e a criptomoeda Basic Attention Token (BAT).[3] 
+Brendan Eich, nascido em 4 de julho de 1961) é um tecnólogo e programador de computadores americano.[1] Ele é o criador da linguagem de programação JavaScript e cofundador do projeto Mozilla, da Mozilla Foundation e da Mozilla Corporation.[2] Eich serviu brevemente como CEO da Mozilla Corporation antes de renunciar devido a controvérsias políticas. Atualmente, é o CEO da Brave Software, empresa que desenvolve o navegador focado em privacidade Brave e a criptomoeda Basic Attention Token (BAT).
 
 ### Em que ano foi criada ### 
 
@@ -40,4 +39,9 @@ Em maio de 1995, a primeira versão foi feita em apenas dez dias, sendo lançada
 Principais Aplicações Desenvolvimento Web Front-End: 
 
 Criação de sites interativos, animações, jogos de navegador e atualizações de páginas em tempo real.Desenvolvimento Web Back-End: Construção de servidores e APIs robustas para gerir bases de dados através do ambiente Node.js.Aplicações Móveis: Criação de aplicações para Android e iOS usando o mesmo código através de frameworks como React Native. 
+
+https://www.google.com/imgres?q=javascript%C2%A0&imgurl=https%3A%2F%2Fwww.infoworld.com%2Fwp-content%2Fuploads%2F2025%2F09%2F2263137-0-59682900-1757000713-shutterstock_1361674454-100939444-orig.jpg%3Fquality%3D50%26strip%3Dall%26w%3D1024&imgrefurl=https%3A%2F%2Fwww.infoworld.com%2Farticle%2F2263137%2Fwhat-is-javascript-the-full-stack-programming-language.html&docid=1TH2inIvg-LTdM&tbnid=aAi13RXO6HchbM&vet=12ahUKEwjow4SsxuuVAxWFTKQEHS5LKwgQnPAOegUIiwEQAA..i&w=1024&h=683&hcb=2&ved=2ahUKEwjow4SsxuuVAxWFTKQEHS5LKwgQnPAOegUIiwEQAA
+
+
+![alt text](image.png)
 

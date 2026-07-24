@@ -2,6 +2,9 @@
 ## Linguagem Programação ##
 ### Linguagem JavaScrip ###
 
+![Static Badge](https://img.shields.io/badge/alpha-breaking-yellow?style=for-the-badge)
+
+
 JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. 
 
 O JavaScript é uma linguagem de programação interpretada que permite criar conteúdo dinâmico, controlar multimédia, animar imagens e praticamente tudo o que envolve interatividade num site ou aplicação. 
@@ -44,4 +47,6 @@ https://www.google.com/imgres?q=javascript%C2%A0&imgurl=https%3A%2F%2Fwww.infowo
 
 
 ![alt text](image.png)
+
+## História da Linguagem ##
 

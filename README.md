@@ -1,1 +1,29 @@
-vchgjhcgg,jgcmc
+# Trabalho Miguel #
+## Linguagem JavaScripProgramação ##
+### Linguagem JavaScrip 
+
+## JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. ##
+
+## O JavaScript é uma linguagem de programação interpretada que permite criar conteúdo dinâmico, controlar multimédia, animar imagens e praticamente tudo o que envolve interatividade num site ou aplicação.
+
+
+## Para perceber melhor o papel do JavaScript na internet, a melhor analogia é com a construção de uma casa: ##
+## HTML: É a estrutura base (paredes, telhado). ## 
+## CSS: É a decoração e o design (pintura, móveis).##
+### JavaScript: É a parte elétrica e hidráulica, ou seja, o que torna a casa funcional, interativa e inteligente. ###
+
+
+### Para que serve? ###
+
+## Hoje em dia, a grande maioria dos sites utiliza JavaScript. As suas funções mais comuns incluem: ##
+
+
+## Interatividade em tempo real: Atualização de feeds de redes sociais sem precisar recarregar a página, validação de formulários (como verificar se um email foi digitado corretamente) e menus dinâmicos. ##
+
+## Animações e Efeitos Visuais: Criação de galerias de imagens, carrosséis, pop-ups e elementos que se movem ou reagem quando o utilizador clica ou passa o rato. ##
+
+
+## Aplicações Web Complexas: Criação de plataformas inteiras dentro do navegador, como o Google Maps ou o leitor de vídeos da Netflix. ##
+
+
+## Aplicações Mobile e Servidores: Embora tenha nascido para os navegadores de internet, hoje o JavaScript também é usado para criar aplicações para telemóveis (através de estruturas como o React Native) e para programar a parte lógica dos servidores (através do Node.js). ##

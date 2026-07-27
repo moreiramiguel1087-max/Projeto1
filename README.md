@@ -45,29 +45,12 @@ Principais Aplicações Desenvolvimento Web Front-End:
 
 Criação de sites interativos, animações, jogos de navegador e atualizações de páginas em tempo real.Desenvolvimento Web Back-End: Construção de servidores e APIs robustas para gerir bases de dados através do ambiente Node.js.Aplicações Móveis: Criação de aplicações para Android e iOS usando o mesmo código através de frameworks como React Native. 
 
-https://www.google.com/imgres?q=javascript%C2%A0&imgurl=https%3A%2F%2Fwww.infoworld.com%2Fwp-content%2Fuploads%2F2025%2F09%2F2263137-0-59682900-1757000713-shutterstock_1361674454-100939444-orig.jpg%3Fquality%3D50%26strip%3Dall%26w%3D1024&imgrefurl=https%3A%2F%2Fwww.infoworld.com%2Farticle%2F2263137%2Fwhat-is-javascript-the-full-stack-programming-language.html&docid=1TH2inIvg-LTdM&tbnid=aAi13RXO6HchbM&vet=12ahUKEwjow4SsxuuVAxWFTKQEHS5LKwgQnPAOegUIiwEQAA..i&w=1024&h=683&hcb=2&ved=2ahUKEwjow4SsxuuVAxWFTKQEHS5LKwgQnPAOegUIiwEQAA
 
 
 ![alt text](image.png)
 
-## História da Linguagem ##
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Exemplos de código ####
+### Exemplos de código ###
 
 ``1. Mostrar uma mensagem``
 ```console.log("Olá, mundo!");```
@@ -143,6 +126,6 @@ https://www.google.com/imgres?q=javascript%C2%A0&imgurl=https%3A%2F%2Fwww.infowo
 
 
 
-##![alt text](image-2.png)##
+##![alt text](image-2.png) ##
 
 

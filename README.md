@@ -1,6 +1,8 @@
-# Trabalho Miguel #
-## Linguagem Programação ##
-### Linguagem JavaScrip ###
+### Linguagem JavaScript ### 
+
+#### Introdução ####
+
+A linguagem de programação JavaScript, é uma linguagem que permite a criação de páginas web interativas, com a possibilidade de aplicar animações, menus e atualizações. 
 
 ![Static Badge](https://img.shields.io/badge/alpha-breaking-yellow?style=for-the-badge)
 
@@ -49,4 +51,98 @@ https://www.google.com/imgres?q=javascript%C2%A0&imgurl=https%3A%2F%2Fwww.infowo
 ![alt text](image.png)
 
 ## História da Linguagem ##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Exemplos de código ####
+
+``1. Mostrar uma mensagem``
+```console.log("Olá, mundo!");```
+
+```2. Variáveis```
+
+```let nome = "João";```
+```const idade = 25;```
+
+```console.log(nome);```
+
+```console.log(idade);```
+
+```3. Função```
+
+```function somar(a, b) {```
+  ```return a + b;```
+
+
+```console.log(somar(5, 3));```
+
+```4. Condicional (if/else)```
+```let nota = 18;```
+
+```if (nota >= 10) {```
+  ```console.log("Aprovado");```
+} ```else {```
+  ```console.log("Reprovado");```
+
+```5. Ciclo for```
+```for (let i = 1; i <= 5; i++) {```
+  ```console.log(i);```
+
+```6. Array```
+```const frutas = ["Maçã", "Banana", "Laranja"];```
+
+```frutas.forEach(fruta =>```
+  ```console.log(fruta);```
+
+```7. Objeto```
+```const pessoa =```
+  ```nome: "Ana",```
+  ```idade: 30```
+
+
+```console.log(pessoa.nome);```
+```console.log(pessoa.idade);```
+`
+```8. Manipular um elemento HTML```
+```<button onclick="mudarTexto()">Clique aqui</button>```
+
+```<p id="texto">Texto original</p>```
+
+```<script>```
+```function mudarTexto()```
+  ```document.getElementById("texto").textContent = "Texto alterado!";```
+
+```</script>```
+
+```9. Função assíncrona```
+```function buscarDados()```
+  ```resposta = await fetch("https://jsonplaceholder.typicode.com/posts/1");```
+  ```const dados = await resposta.json();```
+  ```console.log(dados);```
+}
+
+```buscarDados();```
+
+```10.  Gerar um número aleatório```
+```const numero = Math.floor(Math.random() * 100) + 1;```
+```console.log(numero);```
+
+
+
+
+##![alt text](image-2.png)##
+
 

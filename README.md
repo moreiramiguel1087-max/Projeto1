@@ -126,6 +126,4 @@ Criação de sites interativos, animações, jogos de navegador e atualizações
 
 
 
-##![alt text](image-2.png) ##
-
-
+## ![alt text](image-2.png) ##
